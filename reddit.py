@@ -6,9 +6,9 @@ import time
 from videoscript import VideoScript
 
 # Configuration variables
-CLIENT_ID = "YOUR_CLIENT_ID_HERE"
-CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
-USER_AGENT = "YOUR_USER_AGENT_HERE" 
+CLIENT_ID = "l4AINijuv842tSzC88SBVA"
+CLIENT_SECRET = "czFQz6RFp6kqoTOrI2thsGaWuyMscw"
+USER_AGENT = "Window11:TestApp:v0.1 by u/NeMeSiS_OP" 
 # user_agent sounds scary, but it's just a string to identify what your using it for
 # It's common courtesy to use something like <platform>:<name>:<version> by <your name>
 # ex. "Window11:TestApp:v0.1 by u/Shifty-The-Dev"
